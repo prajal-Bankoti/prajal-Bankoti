@@ -20,7 +20,7 @@ Aspiring full-stack web developer with a keen interest in working with product-b
 -------------------
 
 ## Contact
- <a href="www.linkedin.com/in/prajal-bankoti">![LinkedIn](https://img.shields.io/badge/PrajalBankoti-%231DA1F2.svg?style=for-the-badge&logo=linkedIn&logoColor=white)</a>
+ <a href="https://www.linkedin.com/in/prajal-bankoti/">![LinkedIn](https://img.shields.io/badge/PrajalBankoti-%231DA1F2.svg?style=for-the-badge&logo=linkedIn&logoColor=white)</a>
 
 -------------------
 
