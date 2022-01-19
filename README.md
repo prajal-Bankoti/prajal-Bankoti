@@ -15,7 +15,7 @@
 <div align="center">
   
 ## About
-Aspiring full-stack web developer with a keen interest in working with product-based companies. A quick learner with the ability to devote complete focus to the task at hand. Looking forward to working in a challenging, fast-paced environment. 
+Aspiring full-stack web developer . A quick learner with the ability to devote complete focus to the task at hand. Looking forward to working in a challenging, fast-paced environment. 
 
 -------------------
 
