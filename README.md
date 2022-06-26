@@ -2,7 +2,7 @@
   <img style="width:8rem; height:auto" src="https://masai-course.s3.ap-south-1.amazonaws.com/user/1185/profile/image/prajal.png"/>
 </p>
 
-<h1 align="center">Hi, I'm Prajal Bankoti<img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
+<h1 align="center">Hi, I'm Prajal Bankoti <img width="30px" height="35px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
 <h3 font-size="20" align="center">A passionate full-stack developer and a student from India.</h3>
 
 
